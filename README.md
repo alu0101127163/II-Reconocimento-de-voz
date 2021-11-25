@@ -196,3 +196,5 @@ public class DictationScript : MonoBehaviour
 
 }
 ```
+
+Por último en DictationRecognizer simplemente mostramos el texto que estamos diciendo. Para ello tenemos un texto en la pantalla que nos muestra lo que decimos. Hice también un boton para poder acticarlo y desactivarlo cuando queramos.
