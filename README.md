@@ -115,6 +115,8 @@ public class KeywordScript : MonoBehaviour
 }
 ```
 
+En mi caso he añadido un boton para "encnderlo" y "apargarlo"; además muestro por consola si se han escuchado o no las palabras claves. He puesto como palabras clave: ```{"Cubos", "Bolas", "Cilindros"};``` donde si digo "Cubos" elimina a todos los cubos, si digo "Bolas" pues elimina a todas las esferas y por ultimo si digo "Cilindros" elimina a todos los cilindros.
+
 ## DictationRecognizer
 
 ```c#
